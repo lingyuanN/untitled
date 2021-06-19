@@ -7,5 +7,4 @@ package org.example;
  * @description : PACKAGE_NAME
  */
 public class aaa {
-    int i;
 }
